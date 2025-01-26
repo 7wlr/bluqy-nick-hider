@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bluqy-name-hider",
+  "name": "Bluqy nick hider",
+  "description": "Just a basic version of a nick hider",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["7wlr"],
+  "credits": "bluqy",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
